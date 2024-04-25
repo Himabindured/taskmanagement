@@ -1,0 +1,89 @@
+{
+    "user": {
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Complete project proposal",
+        "description": "Write and finalize project proposal document",
+        "priority": "High",
+        "status": "Incomplete",
+        "due_date": "2024-05-05"
+      },
+      {
+        "id": 2,
+        "title": "Prepare presentation",
+        "description": "Create slides for the project presentation",
+        "priority": "Medium",
+        "status": "Incomplete",
+        "due_date": "2024-05-10"
+      },
+      {
+        "id": 3,
+        "title": "Review project requirements",
+        "description": "Go through project requirements and clarify doubts",
+        "priority": "Low",
+        "status": "Complete",
+        "due_date": "2024-04-20"
+      },
+      {
+        "id": 4,
+        "title": "Research market trends",
+        "description": "Gather information on current market trends",
+        "priority": "High",
+        "status": "Incomplete",
+        "due_date": "2024-05-15"
+      },
+      {
+        "id": 5,
+        "title": "Design wireframes",
+        "description": "Create wireframes for the project UI",
+        "priority": "Medium",
+        "status": "Incomplete",
+        "due_date": "2024-05-08"
+      },
+      {
+        "id": 6,
+        "title": "Schedule project meeting",
+        "description": "Coordinate with team members and set up a meeting",
+        "priority": "Low",
+        "status": "Incomplete",
+        "due_date": "2024-05-03"
+      },
+      {
+        "id": 7,
+        "title": "Code implementation",
+        "description": "Start coding the project according to the requirements",
+        "priority": "High",
+        "status": "Incomplete",
+        "due_date": "2024-05-20"
+      },
+      {
+        "id": 8,
+        "title": "Client meeting",
+        "description": "Arrange a meeting with the client to discuss project progress",
+        "priority": "Medium",
+        "status": "Incomplete",
+        "due_date": "2024-05-12"
+      },
+      {
+        "id": 9,
+        "title": "Testing phase",
+        "description": "Test the developed features for bugs and issues",
+        "priority": "Low",
+        "status": "Incomplete",
+        "due_date": "2024-05-25"
+      },
+      {
+        "id": 10,
+        "title": "Finalize project documentation",
+        "description": "Complete all documentation related to the project",
+        "priority": "High",
+        "status": "Incomplete",
+        "due_date": "2024-05-30"
+      }
+    ]
+  }
+  
